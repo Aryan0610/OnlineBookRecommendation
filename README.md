@@ -5,8 +5,8 @@ By harnessing the power of data driven insights, our platform not only offers a 
 
 Required Libraries
 1. Streamlit - https://streamlit.io/
-2. Numpy
-3. Pandas
+2. Numpy - https://numpy.org/
+3. Pandas - https://pandas.pydata.org/
 
 ## How to Install
 1. Clone the Repository
